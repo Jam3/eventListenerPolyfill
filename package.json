@@ -1,0 +1,24 @@
+{
+  "name": "eventListenerPolyfill",
+  "version": "1.0.0",
+  "description": "ie6-ie8 Event Listener polyfill",
+  "main": "eventListenerIEPolyfill.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jam3/eventListenerPolyfill.git"
+  },
+  "keywords": [
+    "event",
+    "listener",
+    "ie6",
+    "ie7",
+    "ie8",
+    "addEventListener",
+    "removeEventListener",
+    "mvc"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Jam3/eventListenerPolyfill",
+  "dependencies": {},
+  "devDependencies": {}
+}
